@@ -28,14 +28,22 @@ Step 4 : The 'Condition' column which contains whether the anime is completed or
 
 # DataVisualation
 fig 1 : shows a ie chart that gives the ratio between Ongoing and Completed Animes.
+
 fig 2 : Shows s bar graph showing the relatiobship between The Top trending animies(left-to right) and their Views 
+
 fig 3 : shows a scatter plot showing the relationship between the total number of views of anime and its Condition(whether it is ongoing or completed)
+
 fig 4 : shows the animies with highest views
+
 fig 5 : shows the anime with highest episodes
 
 # Analysis
 Since we scrapped all the trending pages of the website,
+
 1>From the first fig(pie-chart) we found out that the majority of the trending pages is filled with the animes that have already been completed.
+
 2>second figure compares the views of the top 20 trending animies with eachother.It is seen that the top trending anime is far from the maximun views of the anime.
+
 3>we foundd the most viewed anime of all time(One piece) and 19 below it in descending order
+
 4>we foundd the anime with the most episodes of all time(Mrs. Sazae) and 19 others in decsending order
